@@ -6,7 +6,7 @@ Our goal was to create a RC Car with Bluetooth compatiblity
 instead of a receiver and transmitter. 
 
 ### Central:
-1. React Native Bluetooth App
+1. React Native Bluetooth App (in zip file)
 
 ### Peripheral Parts:
 1. ESP32: microcontroller
